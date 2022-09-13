@@ -1,0 +1,11 @@
+package program;
+
+public class Nattuclass extends Speaker {
+
+    public static void main(String[] args) {
+        Speaker sp=new Speaker();
+        sp.powerOn();
+        sp.play();
+        sp.mute();
+    }
+}

@@ -1,0 +1,26 @@
+package program;
+
+public class Speaker implements power,Volume,Playmusic {
+   public void play(){
+        System.out.println("play the music");
+    }
+    public void pause(){
+        System.out.println("pause the music");
+    }
+   public void mute(){
+        System.out.println("mute the music");
+    }
+    public void Volumeup(){
+        System.out.println("volume increaser hz");
+    }
+    public void volumedown(){
+        System.out.println("vlume decreased 50hz");
+    }
+   public void powerOn(){
+        System.out.println("power on");
+    }
+    public void poweroff(){
+        System.out.println("power off");
+    }
+
+}

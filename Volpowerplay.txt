@@ -1,0 +1,20 @@
+package program;
+
+public interface power {
+      void powerOn();
+
+      void poweroff();
+}
+package program;
+
+public interface Volume {
+      void Volumeup();
+    void volumedown();
+}
+package program;
+
+public interface Playmusic {
+    void play();
+     void pause();
+    void mute();
+}
