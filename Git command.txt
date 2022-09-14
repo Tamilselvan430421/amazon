@@ -1,0 +1,25 @@
+//span[text()='Favorites']
+
+git config --global user.name "Tamilselvan430421"
+
+g
+
+
+remote add origin https://github.com/Tamilselvan430421/Codoid-trainning.git
+  git common commands:
+  git config --global user.name "github name"
+  git config --global user.email "github email"
+  git init
+  git clone "clone address"
+  -->ls-list 
+  -->cd-command directory
+  git status
+  git add "filename.txt"
+  -->adding all file=git add .
+  git status
+  git branch
+  git checkout -b "branchname"
+  git commit -m "passing message"
+  git status
+  git push
+  
